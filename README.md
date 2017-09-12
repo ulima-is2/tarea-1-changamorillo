@@ -8,8 +8,6 @@
 
 ### Instrucciones
 
-Para poder realizar la revisión de la tarea, ir al siguiente [enlace](https://docs.google.com/a/ulima.pe/spreadsheets/d/1SdHAIiCbPsE8KYyQiTV928IerRiQe0-lK1XLdXKwOqc/edit?usp=sharing)
-
-*Nota: Se debe estar logeado con su cuenta de la Universidad de Lima*
+Para poder realizar la revisión de la tarea, abrir el archivo de excel que se encuentra en el repositorio.
 
 Finalmente habrá una hoja para cada pregunta, en la que se encuentra la respectiva respuesta.
